@@ -18,6 +18,8 @@ WARNING1: The board has no 3.3V pin, so do not use shields that require this Vol
 
 WARNING2; Do not use both USB cable and Power Supply at the same time
 
+![alt tag](https://github.com/Atzingen/Lafaquino/blob/master/Board_top_view.jpg)
+
 Authors
 =========
 
@@ -25,7 +27,7 @@ Aldo Ivan Cespedes Arce
 
 Fernando Henrique Garcia
 
-Gustavo Voltani von Atzingen
+Gustavo Voltani von Atzingen 
 
 Ernane Jose Xavier Costa
 
