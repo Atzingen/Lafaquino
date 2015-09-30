@@ -1,3 +1,6 @@
+#ignorar pasta publicacoes
+publicacoes/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
